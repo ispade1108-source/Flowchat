@@ -1,0 +1,37 @@
+# streamlit==1.29.0
+# pandas==2.1.3
+# numpy==1.24.3
+# xarray==2023.10.1
+# netCDF4==1.6.5
+# plotly==5.18.0
+# sqlalchemy==2.0.23
+# chromadb==0.4.18
+# langchain==0.1.0
+# langchain-community==0.1.0
+# openai==1.6.1
+# python-dotenv==1.0.0
+# folium==0.15.0
+# streamlit-folium==0.15.1
+# scipy==1.11.4
+
+
+
+
+streamlit==1.29.0
+pandas>=2.1.3
+numpy>=1.26.0
+xarray==2023.10.1
+netCDF4==1.6.5
+plotly==5.18.0
+sqlalchemy==2.0.23
+chromadb==0.4.18
+
+# LangChain (use compatible versions)
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+openai>=1.6.1
+python-dotenv>=1.0.0
+folium==0.15.0
+streamlit-folium==0.15.1
+scipy>=1.11.4
